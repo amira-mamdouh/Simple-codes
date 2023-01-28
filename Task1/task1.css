@@ -1,0 +1,32 @@
+table {
+  border: 1px dashed black;
+  background-image: url(/planet.png);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: 50%;
+  border-spacing: 0;
+  width: 80%;
+  text-align: center;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px dashed black;
+}
+
+th {
+  background-color: #238bc35e;
+}
+
+p {
+  margin: 1px auto;
+  color: red;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p span {
+  background-color: red;
+  color: white;
+}
